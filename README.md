@@ -4,9 +4,9 @@
 
 |Name |         Description         |                     Dataset                     |        Num. Rows and Columns       |
 |:---:|:---------------------------:|:-----------------------------------------------:|:----------------------------------:|
-| DB1 |    disease related data     |       *confirmed_case.xlsx*, *death.xlsx*       |        <1531, 27>, <229, 27>       |
+| DB1 |    disease related data     |       *confirmed_case.xlsx*<br>*death.xlsx*       |        <1531, 27><br><229, 27>       |
 | DB2 |demographic & mobility data|               *demographics.xlsx*               |             <28889, 6>             |
-| DB3 |    Reddit data     |*post.csv*, *comment.csv*, *comment_location*.csv|<22992, 11>, <182554, 8>, <29165, 3>|
+| DB3 |    Reddit data     |*post.csv*<br>*comment.csv*<br>*comment_location*.csv|<22992, 11><br><182554, 8><br><29165, 3>|
 | DB4 |      constructed AHIN       |                   *AHIN.csv*                    |              <96459, 3>            |
 
 
