@@ -14,10 +14,10 @@
 If you use our dataset or code, please cite [our paper](https://arxiv.org/abs/1711.07846):
 
 ```
-@inproceedings{fmow2018,
-  title={Functional Map of the World},
-  author={Christie, Gordon and Fendley, Neil and Wilson, James and Mukherjee, Ryan},
-  booktitle={CVPR},
-  year={2018}
+@article{ye2020satellite,
+  title={α-Satellite: An AI-driven System and Benchmark Datasets for Hierarchical Community-level Risk Assessment to Help Combat COVID-19},
+  author={Ye, Yanfang and Hou, Shifu and Fan, Yujie and Qian, Yiyue and Zhang, Yiming and Sun, Shiyu and Peng, Qian and Laparo, Kenneth},
+  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  year={2020}
 }
 ```
