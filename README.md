@@ -4,9 +4,9 @@
 
 |Name |     Description    |                       Dataset                       |           Rows           |
 |:---:|:------------------:|:---------------------------------------------------:|:------------------------:|
-| DB1 |disease related data|       *confirmed_case.xlsx*<br>*death.xlsx*         |        1531<br>229       |
+| DB1 |disease related data|       *confirmed_case.xlsx*, *death.xlsx*         |        1531, 229       |
 | DB2 |  demographic data  |                 *demographics.xlsx*                 |           28889          |
-| DB3 |  social media data |*post.csv*<br>*comment.csv*<br>*comment_location*.csv| 22992<br>182554<br>29165 |
+| DB3 |  social media data |*post.csv*, *comment.csv*, *comment_location*.csv| 22992,182554,29165 |
 | DB4 |  constructed AHIN  |                    *AHIN.csv*                       |           96459          |
 
 ### DB1
