@@ -4,9 +4,9 @@
 
 |Name |        Description        |                       Dataset                       |          Num. Rows and Columns         |
 |:---:|:-------------------------:|:---------------------------------------------------:|:--------------------------------------:|
-| DB1 |   Disease Related Data    |        *confirmed_case.xlsx*<br>*death.xlsx*        |          <1531, 27><br><229, 27>       |
+| DB1 |   Disease Related Data    |        *confirmed_case.xlsx*<br>*death.xlsx*        |          <1531, 28><br><229, 28>       |
 | DB2 |Demographic and Mobility data|                 *demographics.xlsx*                 |               <28889, 7>               |
-| DB3 |        Reddit Data        |*post.csv*<br>*comment.csv*<br>*comment_location*.csv|<22992, 11><br><182554, 8><br><29165, 3>|
+| DB3 |        Reddit Data        |*post.csv*<br>*comment.csv*<br>*comment_location.csv*|<22992, 11><br><182554, 8><br><29165, 3>|
 | DB4 |     Constructed AHIN      |                     *AHIN.csv*                      |                <96459, 3>              |
 
 ## Column Details
@@ -14,7 +14,7 @@
 - *confirmed_case.xlsx*, *death.xlsx*
 
 ```
-["county", "02.28",...,"03.24"]
+["county", "2020/2/28",...,"2020/3/25"]
 ```
 
 
@@ -46,7 +46,7 @@
 - *AHIN.xlsx*
 
 ```
-["entity", "entity", "relation"]
+["entity", "entity", "relation (0: include, 1: near)"]
 ```
 
 
