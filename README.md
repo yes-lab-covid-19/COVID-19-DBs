@@ -4,10 +4,10 @@
 
 |Name |        Description        |                       Dataset                       |          Num. Rows and Columns         |
 |:---:|:-------------------------:|:---------------------------------------------------:|:--------------------------------------:|
-| DB1 |   disease related data    |        *confirmed_case.xlsx*<br>*death.xlsx*        |          <1531, 27><br><229, 27>       |
-| DB2 |demographic & mobility data|                 *demographics.xlsx*                 |               <28889, 7>               |
-| DB3 |        Reddit data        |*post.csv*<br>*comment.csv*<br>*comment_location*.csv|<22992, 11><br><182554, 8><br><29165, 3>|
-| DB4 |     constructed AHIN      |                     *AHIN.csv*                      |                <96459, 3>              |
+| DB1 |   Disease Related Data    |        *confirmed_case.xlsx*<br>*death.xlsx*        |          <1531, 27><br><229, 27>       |
+| DB2 |Demographic and Mobility data|                 *demographics.xlsx*                 |               <28889, 7>               |
+| DB3 |        Reddit Data        |*post.csv*<br>*comment.csv*<br>*comment_location*.csv|<22992, 11><br><182554, 8><br><29165, 3>|
+| DB4 |     Constructed AHIN      |                     *AHIN.csv*                      |                <96459, 3>              |
 
 ## Column Details
 
@@ -52,7 +52,7 @@
 
 ## References
 
-If you use our dataset or code, please cite our paper:
+If you use our dataset(s), please cite our paper:
 
 ```
 @article{ye2020satellite,
