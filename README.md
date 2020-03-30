@@ -55,10 +55,10 @@
 If you use our dataset(s), please cite our paper:
 
 ```
-@article{ye2020satellite,
+@article{ye2020_Covid-19_Satellite,
   title={α-Satellite: An AI-driven System and Benchmark Datasets for Hierarchical Community-level Risk Assessment to Help Combat COVID-19},
   author={Ye, Yanfang and Hou, Shifu and Fan, Yujie and Qian, Yiyue and Zhang, Yiming and Sun, Shiyu and Peng, Qian and Laparo, Kenneth},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2020}
-}
+  journal={arXiv preprint arXiv:2003.12232},
+  year={2020} 
+} 
 ```
