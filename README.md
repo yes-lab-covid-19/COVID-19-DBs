@@ -1,13 +1,23 @@
 # COVID-19-DBs
 
-## Database
+## Datasets
 
-|Name |        Description        |                       Dataset                       |          Num. Rows and Columns         |
+|Name |          Summary          |                       Dataset                       |          Num. Rows and Columns         |
 |:---:|:-------------------------:|:---------------------------------------------------:|:--------------------------------------:|
 | DB1 |   Disease Related Data    |        *confirmed_case.xlsx*<br>*death.xlsx*        |          <1531, 28><br><229, 28>       |
 | DB2 |Demographic and Mobility data|                 *demographics.xlsx*                 |               <28889, 7>               |
 | DB3 |        Reddit Data        |*post.csv*<br>*comment.csv*<br>*comment_location.csv*|<22992, 11><br><182554, 8><br><29165, 3>|
-| DB4 |     Constructed AHIN      |                     *AHIN.csv*                      |                <96459, 3>              |
+| DB4 |     Constructed Graph     |                     *AHIN.csv*                      |                <96459, 3>              |
+
+## Detailed Descriptions of Datasets
+
+|Name |          Summary          |                       Dataset          |
+|:---:|:-------------------------:|:--------------------------------------:|
+| DB1 |   Disease Related Data    |       According to simplemaps, the U.S. includes 50 states, Washington, D.C. and Puerto Rico as well as 3,203 counties and 28,889 cities. We have collected the up-to-date countybased coronavirus related data including the numbers of confirmed cases, new cases, deaths and the fatality rate, from official public health organizations and digital media with real-time updates of COVID-19. By the date, we have collected these data from 1,531 counties and 52 states (including Washington, D.C. and Puerto Rico) on a daily basis from Feb. 28, 2020 to date (i.e., March 25, 2020).      |
+| DB2 |Demographic and Mobility data|                 *demographics.xlsx*                 |               <28889, 7>               |
+| DB3 |        Reddit Data        |*post.csv*<br>*comment.csv*<br>*comment_location.csv*|<22992, 11><br><182554, 8><br><29165, 3>|
+| DB4 |     Constructed Graph     |                     *AHIN.csv*                      |                <96459, 3>              |
+
 
 ## Column Details
 
