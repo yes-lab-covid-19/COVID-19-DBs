@@ -24,7 +24,7 @@
 - *confirmed_case.csv*, *death.csv*
 
 ```
-["county name", "2/28/2020",...,"5/05/2021"]
+["county name", "2/28/2020",...,"5/5/2021"]
 ```
 
 
